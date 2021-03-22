@@ -7,11 +7,9 @@
 
 <p align="center">Orphic -- //TODO DOCS https://github.com/orphic-inc/cardano-meta-handler</p>
 
-SLATE ORIGINAL CONTENT:
+[OG LDMDR VOD](https://vimeo.com/469738073)
 
-<p align="center"><img src="https://raw.githubusercontent.com/slatedocs/img/main/screenshot-slate.png" width=700 alt="Screenshot of Example Documentation created with Slate"></p>
-
-<p align="center"><em>The example above was created with Slate. Check it out at <a href="https://slatedocs.github.io/slate">slatedocs.github.io/slate</a>.</em></p>
+<p align="center"><em>The example above was run as noted in the VOD. Learn more in the <a href="https://github.com/orphic-inc/node-orphic-cli">node-orphic-cli repo</a>.</em></p>
 
 Features
 ------------
